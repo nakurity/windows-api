@@ -131,7 +131,6 @@ class WindowsAPIServer:
         signal.signal(signal.SIGINT, handler)
         signal.signal(signal.SIGTERM, handler)
 
-
 if __name__ == "__main__":
     config_path = Path(__file__).parents[3] / "resources" / "authentication.yaml"
     server = WindowsAPIServer(config_path)
