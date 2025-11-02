@@ -1,1 +1,0 @@
-print("[NOT IMPLEMENTED] configurator package")

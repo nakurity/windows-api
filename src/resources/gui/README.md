@@ -1,1 +1,0 @@
-This folder has resources (configs, assets, and any other user-edited files) for gui-controller.
